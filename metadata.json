@@ -1,0 +1,6 @@
+{
+  "name": "PhytoScan — AI Crop-Disease Detector & Spec",
+  "description": "Farmer's assistant app for diagnosing Tomato and Maize leaf diseases with localStorage diagnostic history and full 14-section ML specification.",
+  "requestFramePermissions": ["geolocation"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

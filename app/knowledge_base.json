@@ -1,0 +1,146 @@
+{
+  "Tomato___Early_blight": {
+    "crop": "tomato",
+    "disease_name": "Tomato Early Blight",
+    "causal_agent": "Alternaria solani (Fungus)",
+    "severity": "Moderate",
+    "symptoms": [
+      "Dark brown to black circular spots with concentric target-like rings on older lower leaves.",
+      "Yellowing tissue around the dark spots that eventually causes lower leaves to dry and drop.",
+      "Sunken dark leathery lesions near the stem end of developing tomato fruits."
+    ],
+    "organic_remedy": "Prune and burn infected lower leaves immediately. Spray Copper Oxychloride or Bordeaux mixture (3 g per liter of water) or neem oil extract (5 mL/L) every 7 to 10 days.",
+    "chemical_remedy": "Apply Mancozeb 75% WP (2.5 g/L of water) or Chlorothalonil 75% WP (2.0 g/L) or Azoxystrobin 23% SC (1.0 mL/L) as a foliar spray.",
+    "prevention_tips": [
+      "Mulch around the base of plants with dry straw to stop soil-borne spores from splashing onto lower leaves.",
+      "Use drip or furrow irrigation at soil level instead of overhead sprinklers.",
+      "Rotate tomatoes with non-nightshade crops (maize or beans) for at least 2 seasons."
+    ]
+  },
+  "Tomato___Late_blight": {
+    "crop": "tomato",
+    "disease_name": "Tomato Late Blight",
+    "causal_agent": "Phytophthora infestans (Oomycete / Water Mold)",
+    "severity": "High",
+    "symptoms": [
+      "Large irregular pale-green to dark water-soaked patches starting at leaf tips and margins.",
+      "Fine white cottony fungal growth on the underside of leaves during cool, wet mornings.",
+      "Rapid browning and shriveling of entire stems and petioles within 3 to 5 days."
+    ],
+    "organic_remedy": "Immediately uproot and bury heavily infected plants away from the field. Spray preventative fixed copper fungicide (Copper Hydroxide 3.0 g/L) before rain events.",
+    "chemical_remedy": "Apply Cymoxanil 8% + Mancozeb 64% WP (2.5 g/L of water) or Metalaxyl-M 4% + Mancozeb 64% WP (2.5 g/L) thoroughly covering undersides of leaves.",
+    "prevention_tips": [
+      "Space tomato plants 60 cm apart and stake them upright to maximize air circulation.",
+      "Destroy volunteer tomato and potato plants near field borders before planting.",
+      "Avoid evening watering so foliage stays completely dry overnight."
+    ]
+  },
+  "Tomato___Septoria_leaf_spot": {
+    "crop": "tomato",
+    "disease_name": "Tomato Septoria Leaf Spot",
+    "causal_agent": "Septoria lycopersici (Fungus)",
+    "severity": "Moderate",
+    "symptoms": [
+      "Numerous small circular spots (2 to 3 mm wide) with dark brown margins and pale gray or tan centers.",
+      "Tiny black dot-like fruiting bodies (pycnidia) visible inside the gray center of each spot.",
+      "Heavy defoliation progressing from the bottom of the plant upward, exposing fruits to sunscald."
+    ],
+    "organic_remedy": "Remove infected bottom leaves up to the first fruit cluster. Spray potassium bicarbonate solution (5 g/L) or copper soap fungicide every 7 days.",
+    "chemical_remedy": "Apply Chlorothalonil 75% WP (2.0 g/L of water) or Mancozeb 75% WP (2.5 g/L) at 10-day intervals.",
+    "prevention_tips": [
+      "Wash hands and disinfect pruning shears with 70% rubbing alcohol between rows.",
+      "Never walk through or cultivate the field while tomato foliage is wet from dew or rain.",
+      "Plow under or burn all crop debris immediately after the final harvest."
+    ]
+  },
+  "Tomato___healthy": {
+    "crop": "tomato",
+    "disease_name": "Healthy Tomato Leaf",
+    "causal_agent": "None (Healthy Plant)",
+    "severity": "None",
+    "symptoms": [
+      "Uniform deep green leaf color with crisp, unblemished serrated edges.",
+      "Clean leaf undersides free of spots, webbing, or powdery deposits.",
+      "Strong turgid petioles and vigorous new shoot growth."
+    ],
+    "organic_remedy": "No curative treatment needed. Apply balanced compost tea or vermicompost top-dressing every 3 weeks to maintain plant vigor.",
+    "chemical_remedy": "No fungicide required. Continue standard balanced NPK fertilization according to crop growth stage.",
+    "prevention_tips": [
+      "Inspect the lower canopy twice a week during humid or rainy weather.",
+      "Maintain weed-free field borders to reduce insect vectors and fungal hosts.",
+      "Keep lower leaves pruned 15 cm above the soil line once plants reach 60 cm tall."
+    ]
+  },
+  "Corn_(maize)___Cercospora_leaf_spot Gray_leaf_spot": {
+    "crop": "maize",
+    "disease_name": "Maize Gray Leaf Spot",
+    "causal_agent": "Cercospora zeae-maydis (Fungus)",
+    "severity": "High",
+    "symptoms": [
+      "Long, narrow, rectangular tan-to-gray lesions strictly bounded by the parallel leaf veins.",
+      "Lesions display squared-off ends ('matchstick appearance') when held up to sunlight.",
+      "Coalescing gray patches that blight and kill entire leaves during silking and grain fill."
+    ],
+    "organic_remedy": "Apply biological control spray containing Trichoderma harzianum or Bacillus subtilis (5 g/L of water) at early lesion appearance on lower leaves.",
+    "chemical_remedy": "Apply Propiconazole 25% EC (1.0 mL/L of water) or Azoxystrobin 18.2% + Difenoconazole 11.4% SC (1.0 mL/L) between tasseling and early silking.",
+    "prevention_tips": [
+      "Practice deep tillage to bury infected maize stalks from the previous season.",
+      "Rotate maize with soybean, cowpea, or groundnut for 1 to 2 years.",
+      "Select locally adapted maize hybrids rated tolerant to Gray Leaf Spot."
+    ]
+  },
+  "Corn_(maize)___Common_rust_": {
+    "crop": "maize",
+    "disease_name": "Maize Common Rust",
+    "causal_agent": "Puccinia sorghi (Fungus)",
+    "severity": "Moderate",
+    "symptoms": [
+      "Small oval to elongated cinnamon-brown powdery pustules scattered on both upper and lower leaf surfaces.",
+      "Outer skin (epidermis) of the leaf ruptures around each pustule, releasing brick-red spores when rubbed.",
+      "Pustules turn dark brown to black as the plant matures toward harvest."
+    ],
+    "organic_remedy": "Spray wettable sulfur 80% WP (3.0 g/L of water) or neem oil emulsion (5 mL/L) early in the morning when rust pustules first appear on lower leaves.",
+    "chemical_remedy": "Apply Mancozeb 75% WP (2.5 g/L of water) or Tebuconazole 25.9% EC (1.0 mL/L) if pustules spread to the ear leaf before pollination.",
+    "prevention_tips": [
+      "Plant early at the onset of the rainy season so crops mature before peak rust spore buildup.",
+      "Eradicate wild Oxalis (wood sorrel) weeds around field margins, which act as the alternate host.",
+      "Avoid excessive nitrogen top-dressing which produces soft, rust-susceptible leaf tissue."
+    ]
+  },
+  "Corn_(maize)___Northern_Leaf_Blight": {
+    "crop": "maize",
+    "disease_name": "Maize Northern Leaf Blight",
+    "causal_agent": "Exserohilum turcicum (Fungus)",
+    "severity": "High",
+    "symptoms": [
+      "Large cigar-shaped or elliptical grayish-green to tan lesions measuring 3 cm to 15 cm long.",
+      "Lesions taper at both ends and cross seamlessly across leaf veins (unlike rectangular Gray Leaf Spot).",
+      "Dusty dark olive-gray spore masses form in concentric zones inside lesions during damp weather."
+    ],
+    "organic_remedy": "Remove heavily blighted bottom leaves below the ear node and spray Copper Oxychloride (3.0 g/L) or Trichoderma viride bio-fungicide (5 g/L).",
+    "chemical_remedy": "Apply Mancozeb 75% WP (2.5 g/L of water) or Propiconazole 25% EC (1.0 mL/L) when lesions appear on the leaf below the primary ear.",
+    "prevention_tips": [
+      "Ensure adequate potassium soil fertility, as potassium-deficient maize suffers severe blight.",
+      "Compost or deeply plow maize stover after harvest to eliminate overwintering fungal spores.",
+      "Maintain recommended plant population density (65,000-75,000 plants/ha) to keep the canopy ventilated."
+    ]
+  },
+  "Corn_(maize)___healthy": {
+    "crop": "maize",
+    "disease_name": "Healthy Maize Leaf",
+    "causal_agent": "None (Healthy Plant)",
+    "severity": "None",
+    "symptoms": [
+      "Broad, glossy dark-green leaf blades with prominent bright white central midrib.",
+      "Absence of necrotic streaks, rust pustules, or chlorotic flecking.",
+      "Whorl and ear-leaf surfaces intact and actively photosynthetic."
+    ],
+    "organic_remedy": "No curative treatment needed. Maintain soil moisture and apply organic mulch or farmyard manure between rows.",
+    "chemical_remedy": "No fungicide required. Follow standard split-application schedule for urea/nitrogen at knee-high and tasseling stages.",
+    "prevention_tips": [
+      "Scout fields weekly in a W-pattern from knee-high stage through tasseling.",
+      "Keep drainage channels clear to prevent waterlogging during heavy monsoon rains.",
+      "Control stem borers and fall armyworm early so feeding wounds do not invite fungal infection."
+    ]
+  }
+}
